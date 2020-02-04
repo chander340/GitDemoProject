@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		99A0743A23E95948004E06A6 /* GitDemoProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitDemoProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		99A0743A23E95948004E06A6 /* GitDemoProject1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitDemoProject1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99A0743D23E95948004E06A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		99A0743F23E95948004E06A6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		99A0744123E95948004E06A6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		99A0743B23E95948004E06A6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				99A0743A23E95948004E06A6 /* GitDemoProject.app */,
+				99A0743A23E95948004E06A6 /* GitDemoProject1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = GitDemoProject;
 			productName = GitDemoProject;
-			productReference = 99A0743A23E95948004E06A6 /* GitDemoProject.app */;
+			productReference = 99A0743A23E95948004E06A6 /* GitDemoProject1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = imminentSoftwares.GitDemoProject;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = GitDemoProject1;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = imminentSoftwares.GitDemoProject;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = GitDemoProject1;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
